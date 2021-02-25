@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
     <a >
-        <img width="75%"  src="https://res.cloudinary.com/triggsumms/image/upload/v1614286955/wnzgqv29fcjrlfbyiscv.jpg"  alt="TRACKER logo">
+        <img width="50%"  src="https://res.cloudinary.com/triggsumms/image/upload/v1614286955/wnzgqv29fcjrlfbyiscv.jpg"  alt="TRACKER logo">
     </a>
 </p>
 
