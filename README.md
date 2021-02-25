@@ -10,7 +10,7 @@
 
 
 
-# ...The BigTimeRestaurantApp Application
+# ...DailyBlog (CRUD practice App)
     *This is an application  worked via Stephen Grider's React Native Course [2021]
     * The application works to establish CRUD with React Native...and was an awesome first project to get my footing with the language 
     
