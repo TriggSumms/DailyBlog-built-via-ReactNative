@@ -49,9 +49,9 @@ npm install
 
 ```
 # Setup the Server
-...make sure your in the jsonserver directory
-inside json directory "npm run tunnel" & then grab/insert new ngrok url
-inside seperate json directory "json-server -w db.json" 
+...through bash open to windows in the jsonserver directory
+First WINDOW: "npm run tunnel" ...& then grab/insert new ngrok url inside your project files api/jsonserver.js
+Second WINDOW: "json-server -w db.json" 
 
 ```
 
