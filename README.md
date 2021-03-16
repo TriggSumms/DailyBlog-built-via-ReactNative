@@ -66,7 +66,7 @@ npm start
 
 
 
-The [Expo](https://expo.io) packager will show, and you can either:
+The [Expo](https://expo.io)  packager will show, and you can either:
 
 
 -   install the Expo app, scan the displayed QR code, and run the app on your mobile phone directly.
